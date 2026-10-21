@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.ussd110",
+  "appName": "USSD 110",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

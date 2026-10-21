@@ -1,0 +1,10 @@
+{
+  "name": "محاكاة خدمة USSD",
+  "short_name": "USSD 110",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#a7abb1",
+  "theme_color": "#a7abb1",
+  "lang": "ar",
+  "dir": "rtl"
+}
